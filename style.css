@@ -1,4 +1,3 @@
-
 body {
   background: #00b3e6;
 }
@@ -6,8 +5,8 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font-family: Helvetica;
-  background: wheat;
+  font-family: Helvetica Neue;
+  background: white;
   padding: 30px;
 }
 
@@ -17,7 +16,6 @@ div {
   color: red;
   font-size: 22px;
 }
-
 
 .perspective-questions {
   font-style: italic;
